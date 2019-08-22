@@ -5,8 +5,8 @@
  * Plugin URI:  https://segwitz.com
  * Author: SegWitz
  * Author URI: https://segwitz.com
- * Version: 1.0.0
- * Description: This plugin generates coupon codes onto your designed coupons.
+ * Version: 1.0
+ * Description: This plugin generates coupon codes onto your designed coupons. You can design a coupon and upload to the plugin and adjust the location of where the code should be generated.
 */
 
 class CouponImages{
