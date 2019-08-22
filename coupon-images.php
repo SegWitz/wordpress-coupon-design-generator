@@ -1,10 +1,10 @@
 <?php 
 <?php 
 /*
- * Plugin Name: WP Coupon Code Design Generator
- * Plugin URI:  https://zottalabs.com
- * Author: Zotta Labs
- * Author URI: https://zottalabs.com
+ * Plugin Name: SegWitz - WP Coupon Code Design Generator
+ * Plugin URI:  https://segwitz.com
+ * Author: SegWitz
+ * Author URI: https://segwitz.com
  * Version: 1.0.0
  * Description: This plugin generates coupon codes onto your designed coupons.
 */
